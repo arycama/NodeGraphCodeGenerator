@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\bin\Debug\netstandard2.0\NodeGraphCodeGenerator.deps.json
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\bin\Debug\netstandard2.0\NodeGraphCodeGenerator.dll
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\bin\Debug\netstandard2.0\NodeGraphCodeGenerator.pdb
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.AssemblyInfo.cs
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.dll
+C:\Users\Ben\Documents\Projects\TechHunter2018\TechHunterProject\NodeGraphCodeGenerator\obj\Debug\netstandard2.0\NodeGraphCodeGenerator.pdb
